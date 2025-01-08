@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="40" height="23" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="12">
+ <objectgroup id="2" name="Platforms">
+  <object id="1" name="platform" x="0" y="704" width="1280" height="32"/>
+  <object id="2" name="platform" x="128" y="480" width="1152" height="31"/>
+  <object id="3" name="platform" x="0" y="256" width="1152" height="32"/>
+  <object id="4" name="platform" x="500" y="96" width="128" height="32"/>
+ </objectgroup>
+ <objectgroup id="3" name="Sprites">
+  <object id="5" name="player" x="545" y="8.5" width="45.5" height="75"/>
+  <object id="7" name="melee" x="173.5" y="227" width="30" height="25"/>
+  <object id="8" name="melee" x="801.333" y="227" width="30" height="25"/>
+  <object id="10" name="shooter" x="320" y="451" width="30" height="25"/>
+  <object id="11" name="shooter" x="1097.33" y="451" width="30" height="25"/>
+ </objectgroup>
+</map>
