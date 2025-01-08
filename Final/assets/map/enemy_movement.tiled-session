@@ -1,0 +1,30 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "level.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 705.3333333333334,
+                "y": 448
+            }
+        }
+    },
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 40,
+    "openFiles": [
+        "level.tmx"
+    ],
+    "project": "enemy_movement.tiled-project",
+    "recentFiles": [
+        "level.tmx"
+    ]
+}
